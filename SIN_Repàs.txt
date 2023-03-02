@@ -1,0 +1,8 @@
+carpetas de ubunutu,
+particiones
+comandos,
+formatear
+chequear
+RAID
+NO: Id's de los bloques/ como encontrar UUID.
+ 
